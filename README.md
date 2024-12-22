@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in exploring technology and new tech stack.
 
-- 🌱 I’m currently learning **ReactJS, NextJS**
+- 🌱 I’m currently learning **ReactJS, many new tech stacks**
 
 - 📫 Reach out to me: **amareshmaharana649@gmail.com**
 
