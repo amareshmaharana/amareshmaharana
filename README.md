@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React JS, Next JS**
 
-- 👨‍💻 All of my projects are available at [amareshmaharana.netlify.app](amareshmaharana.netlify.app)
+- 👨‍💻 All of my projects are available at [amareshmaharana.netlify.app](https://amareshmaharana.netlify.app)
 
 - 💬 Ask me about **web**
 
