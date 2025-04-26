@@ -1,4 +1,4 @@
-![profile-banner](‪file:///C:/Users/USER/Downloads/Full%20Stack%20Developer.png)
+![profile-banner](https://i.imgur.com/gRd9y5f.png)
 
 <h1 align="center">Hi 👋, I'm Amaresh Maharana</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
