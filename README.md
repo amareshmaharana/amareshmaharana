@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React JS, Next JS**
 
-- 👨‍💻 All of my projects are available at [amareshmaharana.netlify.app](https://amareshmaharana.netlify.app)
+- 👨‍💻 All of my projects are available at [GitHub Acc](https://github.com/amareshmaharana)
 
 - 💬 Ask me about **web**
 
