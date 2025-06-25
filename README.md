@@ -1,7 +1,7 @@
 ![profile-banner](https://i.imgur.com/gRd9y5f.png)
 
 <h1 align="center">Hi 👋, I'm Amaresh Maharana</h1>
-<h3 align="center">A passionate Backend Developer & Tech Enthusiast from India 🇮🇳</h3>
+<h3 align="center">A passionate Full Stack Developer & Tech Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Node.js+and+MongoDB+Lover;Learning+System+Design;Open+Source+Contributor&center=true&width=500&height=45" />
