@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full Stack Developer & Tech Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Node.js+and+MongoDB+Lover;Learning+System+Design;Open+Source+Contributor&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Tech+Enthusiast;Learning+React+JS,+Typescript,+Next.js;Open+Source+Contributor&center=true&width=500&height=45" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amareshmaharana&label=Profile%20views&color=0e75b6&style=flat" alt="amareshmaharana" /> </p>
