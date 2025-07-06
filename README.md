@@ -11,8 +11,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amareshmaharana" alt="amareshmaharana" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFyamJ3ZnFkN3AydmE3ZHl1NWQ5dWs0YTFyNWcyNXY0a204ZmlyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" align="right" />
 
 - 🌱 I’m currently learning **React JS, Next JS, Typescript**
@@ -51,6 +49,9 @@
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python&theme=light" alt="python" width="50" height="50"/> </a>
     <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c&theme=light" alt="c" width="50" height="50"/> </a>
 </p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=More+languages+will+coming+.......&center=true&width=500&height=35" />
+</p>
 
 <br />
 
@@ -72,12 +73,27 @@
     <a href="https://chatgpt.com/"> <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /> </a>
     <a href="https://gemini.google.com/app"> <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" /> </a>
 </p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=More+tools+will+.......&center=true&width=500&height=25" />
+</p>
 
 <br />
 
-<h2>GitHub Stats:</h2>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Let's+collaborate;And+connect!!&center=true&width=500&height=25" />
+</p>
+
+<h2>My GitHub Stats:</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amareshmaharana&layout=pie" alt="amareshmaharana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amareshmaharana&theme=yeblu&show_icons=true&hide_border=true&count_private=true" alt="amareshmaharana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amareshmaharana&theme=yeblu&hide_border=true" alt="amareshmaharana" /></p>
+
+<p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amareshmaharana&theme=react-dark" />
+</p>
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+you+for+visiting+:);Happy+to+be+a+developer;&center=true&width=500&height=25" />
+</p>
