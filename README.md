@@ -73,9 +73,6 @@
     <a href="https://chatgpt.com/"> <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /> </a>
     <a href="https://gemini.google.com/app"> <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" /> </a>
 </p>
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=More+tools+will+.......&center=true&width=500&height=25" />
-</p>
 
 <br />
 
