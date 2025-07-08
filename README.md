@@ -53,8 +53,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=More+languages+will+coming+.......&center=true&width=500&height=35" />
 </p>
 
-<br />
-
 <h2 align="left">Dev Tools or libraries that i used:</h2>
 <p align="center">
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase&theme=light" alt="firebase" width="50" height="50"/> </a>
