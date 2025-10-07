@@ -15,19 +15,15 @@
 
 - 🌱 I’m currently learning **React JS, Next JS, Typescript**
 
-- 👨‍💻 All of my projects are available at [GitHub Acc](https://github.com/amareshmaharana)
-
 - 💬 Ask me about **web**
 
 - 📫 How to reach me <p><a href="https://linkedin.com/in/amareshmaharana"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
-- ⚡ Fun fact I think debugging is just a puzzle I haven't solved yet
+- ⚡ Fun fact **I think debugging is just a puzzle I haven't solved yet**
 
-<h3 align="left">Connect or subscribe to me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/amareshmaharana" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="amareshmaharana" /></a>
-    <a href="https://whatsapp.com/channel/0029VbA1g4n8qJ00D45jaD3s" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="amareshmaharana" /></a>
-    <a href="https://devbytesbyamaresh.substack.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" /></a>
 </p>
 
 <br />
@@ -90,5 +86,5 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+you+for+visiting+:);Happy+to+be+a+developer;&center=true&width=500&height=25" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+you+for+visiting+:);&center=true&width=500&height=25" />
 </p>
