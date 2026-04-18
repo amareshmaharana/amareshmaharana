@@ -1,88 +1,138 @@
-<h1 align="center">Hi 👋, I'm Amaresh Maharana</h1>
-<h3 align="center">A passionate Full Stack Developer & Tech Enthusiast from India 🇮🇳</h3>
+# Hi 👋, I'm **Amaresh Maharana**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Tech+Enthusiast;Learning+React+JS,+Typescript,+Next.js;Open+Source+Contributor&center=true&width=500&height=45" />
-</p>
+### Full Stack Developer (MERN) | Building Scalable, User-Focused Web Applications
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amareshmaharana&label=Profile%20views&color=0e75b6&style=flat" alt="amareshmaharana" /> </p>
+I design and build modern web apps with clean UI, reliable backend logic, and practical problem-solving in mind.  
+Focused on delivering production-ready solutions, improving user experience, and growing as a full-stack engineer.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amareshmaharana" alt="amareshmaharana" /></a> </p>
+🔎 **Open to opportunities** | 📍 Job-ready | 🚀 Actively building real-world projects
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFyamJ3ZnFkN3AydmE3ZHl1NWQ5dWs0YTFyNWcyNXY0a204ZmlyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" align="right" />
+---
 
-- 🌱 I’m currently learning **React JS, Next JS, Typescript**
+## 👨‍💻 About Me
 
-- 💬 Ask me about **web**
+I’m a **Full Stack Developer (MERN)** with hands-on experience in **frontend, backend, database integration, and API development**. I enjoy turning ideas into responsive, efficient, and maintainable applications using modern web technologies.
 
-- 📫 How to reach me <p><a href="https://linkedin.com/in/amareshmaharana"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+As a fresher, I bring a strong learning mindset, adaptability, and a problem-solving approach. I’m focused on building projects that demonstrate real value, clean architecture, and practical business use cases.
 
-- ⚡ Fun fact **I think debugging is just a puzzle I haven't solved yet**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/amareshmaharana" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="amareshmaharana" /></a>
-</p>
+## 🛠️ Tech Stack
 
-<br />
+### Programming Languages
 
-<h2 align="left">Languages that i learned and explored:</h2>
-<p align="center"> 
-    <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html&theme=light" alt="html5" width="50" height="50"/> </a>
-    <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css&theme=light" alt="css3" width="50" height="50"/> </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" alt="bootstrap" width="50" height="50"/> </a>
-    <a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind&theme=light" alt="tailwind_css" width="50" height="50"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript&theme=light" alt="javascript" width="50" height="50"/> </a>
-    <a href="https://www.react.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react&theme=light" alt="react_js" width="50" height="50"/> </a>
-    <a href="https://www.react.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux&theme=light" alt="redux" width="50" height="50"/> </a>
-    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="node_js" width="50" height="50"/> </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express&theme=light" alt="express" width="50" height="50"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="mysql" width="50" height="50"/> </a>
-    <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="mongodb" width="50" height="50"/> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java&theme=light" alt="java" width="50" height="50"/> </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python&theme=light" alt="python" width="50" height="50"/> </a>
-    <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c&theme=light" alt="c" width="50" height="50"/> </a>
-</p>
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=More+languages+will+coming+.......&center=true&width=500&height=35" />
-</p>
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<h2 align="left">Dev Tools or libraries that i used:</h2>
-<p align="center">
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase&theme=light" alt="firebase" width="50" height="50"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git&theme=light" alt="c" width="50" height="50"/> </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github&theme=light" alt="c" width="50" height="50"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="c" width="50" height="50"/> </a>
-    <a href="https://npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=npm&theme=light" alt="c" width="50" height="50"/> </a>
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pycharm&theme=light" alt="c" width="50" height="50"/> </a>
-    <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=webstorm&theme=light" alt="c" width="50" height="50"/> </a>
-    <a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vite&theme=light" alt="c" width="50" height="50"/> </a>
-</p>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<h2 align="left">AI Tools that i used everyday:</h2>
-<p align="center">
-    <a href="https://github.com/features/copilot"> <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" /> </a>
-    <a href="https://chatgpt.com/"> <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /> </a>
-    <a href="https://gemini.google.com/app"> <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" /> </a>
-</p>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-<br />
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Let's+collaborate;And+connect!!&center=true&width=500&height=25" />
-</p>
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-<h2>My GitHub Stats:</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amareshmaharana&layout=pie" alt="amareshmaharana" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amareshmaharana&theme=yeblu&show_icons=true&hide_border=true&count_private=true" alt="amareshmaharana" /></p>
+## 🚀 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amareshmaharana&theme=yeblu&hide_border=true" alt="amareshmaharana" /></p>
+### 1) ❤️‍🩹 RedRelief - BDMS
+A Blood Donation Management System designed to connect donors, recipients, and admins in a structured workflow. Built to simplify blood availability tracking, donation coordination, and request management.
 
-<p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amareshmaharana&theme=react-dark" />
-</p>
+**Key Features**
+- Donor and recipient management
+- Blood availability tracking
+- Request and approval workflow
+- Admin-friendly control and data handling
+- Responsive and user-friendly interface
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+you+for+visiting+:);&center=true&width=500&height=25" />
-</p>
+**Tech Stack:** MERN Stack, Redux, Tailwind CSS, MongoDB, Express, React, Node.js  
+**GitHub:** [View Project](https://github.com/amareshmaharana/redrelief-full-stack-prod)  
+**Live Demo:** [View Live](#)
+
+---
+
+### 2) 💼 ExpenseEcho - Employee Reimbursement System Portal
+
+A full-stack expense reimbursement platform built using the MERN stack to simplify expense submission, tracking, and approval workflows. Designed for real-world organizational use with a focus on efficiency and transparency.
+
+Key Features:
+
+- Expense submission & real-time tracking
+- Role-based access (employee, manager, admin)
+- Approval/rejection workflow
+- Receipt upload using Multer & Cloudinary
+- Clean, responsive UI with Tailwind CSS
+
+Tech Stack:
+MERN (MongoDB, Express, React, Node.js), Redux, Tailwind CSS, Multer, Cloudinary 🚀  
+**GitHub:** [View Project](#)  
+**Live Demo:** [View Live](#)
+
+---
+
+#### Portfolio Website
+**Live Demo:** [View Live](https://amareshmaharana.vercel.app)
+
+---
+
+## 📊 GitHub Stats
+
+![Amaresh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amareshmaharana&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amareshmaharana&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=amareshmaharana&theme=tokyonight&hide_border=true)
+
+---
+
+## 💼 Experience / Internships
+
+### Full Stack Development Training / Internship
+- Worked on building responsive web applications using **React, Node.js, Express, and MongoDB**
+- Practiced **REST API integration**, state management, and backend workflow implementation
+- Gained exposure to **Git/GitHub collaboration**, Postman API testing, and deployment workflows
+- Developed problem-solving habits through project-based learning and real implementation work
+
+### Practical Project Experience
+- Built multiple full-stack applications focused on real-world use cases
+- Worked on clean UI development, backend logic, and database integration
+- Applied structured development practices to improve reliability and maintainability
+
+---
+
+## 🔄 What I’m Currently Doing
+
+- Sharpening my skills in **MERN stack development**
+- Building projects that solve practical problems
+- Improving **DSA, JavaScript, and backend architecture**
+- Exploring better UI/UX patterns with **Tailwind CSS and Next.js**
+- Actively seeking **full-stack developer opportunities**
+
+---
+
+## 📫 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-amareshmaharana649%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amareshmaharana649@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amaresh_Maharana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amareshmaharana)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amareshmaharana.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Your_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+---
+
+### **I’m actively looking for full-stack developer opportunities. Let’s connect!** 🚀
