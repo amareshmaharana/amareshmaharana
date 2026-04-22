@@ -96,7 +96,7 @@ MERN (MongoDB, Express, React, Node.js), Redux, Tailwind CSS, Multer, Cloudinary
 ---
 
 #### Portfolio Website
-**Live Demo:** [View Live](https://amareshmaharana.vercel.app)
+**Live Link:** [View Live](https://amaresh-maharana.vercel.app)
 
 ---
 
