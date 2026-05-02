@@ -72,7 +72,7 @@ A Blood Donation Management System designed to connect donors, recipients, and a
 
 **Tech Stack:** MERN Stack, Redux, Tailwind CSS, MongoDB, Express, React, Node.js  
 **GitHub:** [View Project](https://github.com/amareshmaharana/redrelief-full-stack-prod)  
-**Live Demo:** [View Live](#)
+**Live Demo:** [View Live](https://redrelief.vercel.app/)
 
 ---
 
