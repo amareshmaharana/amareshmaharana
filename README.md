@@ -22,7 +22,7 @@ const amaresh = {
   currentWork: "Building production-grade full-stack applications",
   learning:    ["System Design", "DSA", "Advanced TypeScript"],
   openTo:      "Full-Stack Developer Opportunities 🚀",
-  portfolio:   "https://amaresh-maharana.vercel.app",
+  portfolio:   "https://amareshmaharana.vercel.app",
   funFact:     "Debugging is just a puzzle I haven't solved yet 🧩",
 };
 ```
@@ -161,7 +161,7 @@ const amaresh = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-amaresh--maharana.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amaresh-maharana.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amareshmaharana.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amareshmaharana.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amaresh_Maharana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amareshmaharana)
 [![Email](https://img.shields.io/badge/Email-amareshmaharana649@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amareshmaharana649@gmail.com)
 [![Linktree](https://img.shields.io/badge/Linktree-All_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/amareshmaharana)
